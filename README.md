@@ -43,7 +43,7 @@ We don't believe in brute force. **Copy-Paste Fixer Pro** employs a smart, selec
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/copy-paste-fixer-pro.git
+    git clone https://github.com/Wishgranted101/copy-paste-fixer-pro.git
     ```
 2.  Open Chrome and navigate to `chrome://extensions/`.
 3.  Enable "Developer mode" using the toggle in the top right corner.
@@ -53,7 +53,7 @@ We don't believe in brute force. **Copy-Paste Fixer Pro** employs a smart, selec
 
 1.  Navigate to a website where copy, paste, or right-click is blocked.
 2.  Click the **Copy-Paste Fixer Pro** icon in your Chrome toolbar.
-3.  Click the "Enable on this site" button in the popup.
+3.  Click the "Enable on this site" button in the pop-up.
 4.  The extension will activate, and you should now be able to copy, paste, and right-click freely on that page.
 5.  The extension will remain active for that tab until you close it or explicitly disable it.
 
@@ -67,6 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE ) fil
 
 ---
 
-**Developed with 💙 by [Your Name/Company Name]**
+**Developed with 💙 by Wichly Cazeau**
 
-*Note: Replace `LINK_TO_CHROME_WEB_STORE_PAGE_HERE` and `YOUR_GITHUB_USERNAME` with your actual details once available.*
+*Note: Replace `LINK_TO_CHROME_WEB_STORE_PAGE_HERE` and `Wishgranted101` with your actual details once available.*
