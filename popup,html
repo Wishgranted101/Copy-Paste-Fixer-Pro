@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { width: 200px; padding: 10px; font-family: sans-serif; }
+    button { 
+      width: 100%; 
+      padding: 10px; 
+      background-color: #4285f4; 
+      color: white; 
+      border: none; 
+      border-radius: 4px; 
+      cursor: pointer; 
+    }
+    button:hover { background-color: #357ae8; }
+    .status { margin-top: 10px; font-size: 12px; text-align: center; color: #666; }
+  </style>
+</head>
+<body>
+  <h3>Copy-Paste Fixer</h3>
+  <button id="activate">Enable on this site</button>
+  <div class="status" id="status">Status: Ready</div>
+  <script src="popup.js"></script>
+</body>
+</html>
